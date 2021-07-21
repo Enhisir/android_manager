@@ -1,0 +1,6 @@
+class ADBConnectException(Exception):
+    ...
+
+
+class ADBRuntimeException(Exception):
+    ...
